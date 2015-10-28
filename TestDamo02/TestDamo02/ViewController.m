@@ -19,6 +19,8 @@
 
     
     NSLog(@"testDamo02");
+    
+    NSLog(@"testDamo03");
 }
 
 - (void)didReceiveMemoryWarning {
